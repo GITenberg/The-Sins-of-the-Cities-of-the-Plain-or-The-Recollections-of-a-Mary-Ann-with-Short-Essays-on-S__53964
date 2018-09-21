@@ -1,0 +1,28 @@
+_repo: The-Sins-of-the-Cities-of-the-Plain-or-The-Recollections-of-a-Mary-Ann-with-Short-Essays-on-S__53964
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saul, Jack
+    aliases:
+    - Saul, John
+    - Dublin Jack
+    birthdate: 1857
+    deathdate: 1904
+    gutenberg_agent_id: '47641'
+    url: http://www.gutenberg.org/2009/agents/47641
+description: ''
+gutenberg_issued: '2017-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53964'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gay men -- England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: "The Sins of the Cities of the Plain; or, The Recollections of a Mary-Ann\r\
+  \nwith Short Essays on Sodomy and Tribadism"
+url: http://www.gutenberg.org/ebooks/53964
