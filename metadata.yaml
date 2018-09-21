@@ -1,5 +1,8 @@
 _repo: The-Sins-of-the-Cities-of-the-Plain-or-The-Recollections-of-a-Mary-Ann-with-Short-Essays-on-S__53964
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53964-h/images/cover.jpg
 creator:
   author:
     agent_name: Saul, Jack
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '47641'
     url: http://www.gutenberg.org/2009/agents/47641
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53964#The-Sins-of-the-Cities-of-the-Plain-or-The-Recollections-of-a-Mary-Ann-with-Short-Essays-on-S_
 gutenberg_issued: '2017-01-14'
 gutenberg_type: Text
 identifiers:
